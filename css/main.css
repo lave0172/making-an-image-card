@@ -39,3 +39,7 @@ html {
   left: 0;
   top: 0;
 }
+
+.card-head {
+  position: relative;
+}
